@@ -1,1 +1,8 @@
 theme: jekyll-theme-midnight
+repository: donald-duck-duck/donald-duck-duck.github.io
+title: Donald-Duck-Duck.github.io
+author: Donald Duck
+plugins:
+  - jekyll-feed
+excerpt_separator: <!--more-->
+permalink: /posts/:title
